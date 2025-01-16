@@ -1,64 +1,107 @@
+# 🌟 **AI TradeGPT**  
 
-# 🌟 AI TradeGPT 🌟
-Welcome to **AI TradeGPT**, your intelligent trading assistant! This AI-powered system is built to simplify and automate your trading experience, offering cutting-edge tools and functionality tailored for crypto enthusiasts.
+> 🚀 Your AI-powered crypto trading assistant for seamless and secure trading.  
 
-👉 **[Live Website](https://your-live-site-link.com)**  
-👉 **[GitBook Documentation](https://your-gitbook-link.com)**
-
----
-
-## 🔥 Features
-AI TradeGPT provides a range of trading functionalities, empowering users to make informed decisions. Key features include:
-
-- 🚀 **Launch Token**: Deploy tokens seamlessly on Pump.fun.
-- 📊 **Get Token Info**: Retrieve real-time token data.
-- 💰 **Buy & Sell**: Conduct secure token transactions.
-- 🛡️ **Rug Check**: Perform security checks on tokens to avoid scams.
-- 👛 **Token Holdings**: View your wallet’s holdings in detail.
-- 📈 **PnL Analysis**: Track your profit and loss effortlessly.
-- 🔄 **Transfer SOL**: Send SOL to other wallets with ease.
-- 🕵️ **Wallet Tracking**: Monitor wallet activity like a pro.
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://your-website-link.com)  
+[![GitBook Documentation](https://img.shields.io/badge/View-GitBook_Docs-brightgreen?style=for-the-badge)](https://your-gitbook-link.com)  
 
 ---
 
-## 🎥 Visual Demos
-Explore the magic of AI TradeGPT through these demos:
+## ✨ **Overview**  
+AI TradeGPT is an advanced AI system designed to revolutionize the crypto trading experience. Built to simplify complex trading tasks, it offers:  
 
-### Key Functionalities:
-| **Feature**       | **Demo**                            |
-|--------------------|-------------------------------------|
-| Launch Token       | ![Launch Token Demo](media/demo1.gif) |
-| Buy/Sell Tokens    | ![Buy/Sell Demo](media/demo2.gif)     |
-| Rug Check          | ![Rug Check Demo](media/demo3.gif)   |
-| PnL Analysis       | ![PnL Analysis Demo](media/demo4.gif) |
-
-For a complete walkthrough, check out the **[GitBook Documentation](https://your-gitbook-link.com)**.
+- **🚀 Token Launch:** Deploy tokens seamlessly on Pump.fun.  
+- **📊 Token Info:** Get real-time data about tokens.  
+- **💰 Trading Features:** Securely buy and sell tokens.  
+- **🛡️ Security Checks:** Perform rug checks and avoid scams.  
+- **📈 PnL Tracking:** Analyze profit & loss.  
+- **🔄 SOL Transfers:** Easily transfer SOL to wallets.  
+- **📂 Wallet Tracking:** Stay updated with wallet activities.  
 
 ---
 
-## 📚 How It Works
-This trading assistant leverages cutting-edge AI techniques to interact with decentralized platforms, providing a seamless and efficient user experience.
+## 🔥 **Features**  
+
+| Feature                | Description                                                                                                                                              |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Launch Token**       | Deploy your tokens seamlessly using Pump.fun.                                                                                                            |
+| **Get Token Info**     | Retrieve detailed real-time information for informed decision-making.                                                                                    |
+| **Buy & Sell**         | Conduct secure token transactions effortlessly.                                                                                                          |
+| **Rug Check**          | Run advanced security checks to detect potential scams.                                                                                                 |
+| **PnL Analysis**       | Track and analyze your profit and loss in real time.                                                                                                    |
+| **Transfer SOL**       | Securely transfer SOL tokens between wallets.                                                                                                           |
+| **Wallet Tracking**    | Monitor wallet holdings and track transactions with ease.                                                                                               |
 
 ---
 
-## 🌍 Connect With Us
-- 💬 **Website**: [Visit AI TradeGPT](https://your-live-site-link.com)
-- 📄 **Documentation**: [Explore GitBook Docs](https://your-gitbook-link.com)
-- 📧 **Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
+## 🎥 **Visual Demos**  
+Here’s a quick look at what AI TradeGPT can do!  
+
+| Feature                  | Demo                                                                                      |
+|--------------------------|-------------------------------------------------------------------------------------------|
+| **Launch Token**         | ![Launch Token](media/launch_token_demo.gif)                                              |
+| **Buy & Sell Tokens**    | ![Buy and Sell](media/buy_sell_demo.gif)                                                  |
+| **Rug Check**            | ![Rug Check](media/rug_check_demo.gif)                                                    |
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ **Tech Stack**  
+
+- **Backend:** Python, OpenAI GPT Model.  
+- **Frontend:** React.js for a sleek and user-friendly interface.  
+- **Blockchain:** Solana for token-related operations.  
+
+---
+
+## 📚 **Documentation**  
+Want to dive deeper into how it works? Check out the full documentation on [GitBook](https://your-gitbook-link.com).  
+
+---
+
+## 🚀 **How to Use**  
+
 1. **Visit the Website**  
-   Start exploring the live project here: [Live Website](https://your-live-site-link.com).
+   Head to [AI TradeGPT](https://your-website-link.com) and connect your wallet.  
 
-2. **Read the Docs**  
-   Learn more about the functionality and usage via the [GitBook Documentation](https://your-gitbook-link.com).
+2. **Explore Features**  
+   Start launching tokens, trading, checking PnL, and much more.  
+
+3. **View Documentation**  
+   Refer to the [GitBook Docs](https://your-gitbook-link.com) for detailed usage instructions.  
+
+---
+
+## 📸 **Screenshots**  
+
+### **Home Page**  
+![Home Page](media/home_page_screenshot.png)  
+
+### **Token Info Page**  
+![Token Info](media/token_info_screenshot.png)  
 
 ---
 
-### 🤝 Support & Feedback
-Have questions or want to share feedback? Feel free to open an issue or reach out at [contact@yourdomain.com](mailto:contact@yourdomain.com).
+## 🤝 **Contributing**  
+
+We welcome contributions from the community! Feel free to:  
+- Open issues for bug reports or feature requests.  
+- Submit pull requests with enhancements or fixes.  
 
 ---
+
+## 🛡️ **License**  
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 🌐 **Connect with Us**  
+
+- 🌐 [Website](https://your-website-link.com)  
+- 📘 [GitBook](https://your-gitbook-link.com)  
+- ✉️ [Email Us](mailto:support@your-email.com)  
+
+---
+
+💡 **AI TradeGPT — Simplifying Crypto Trading, One Click at a Time!**  
 
