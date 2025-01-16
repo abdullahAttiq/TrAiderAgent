@@ -7,7 +7,7 @@
 [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://your-website-link.com)  
 [![GitBook Documentation](https://img.shields.io/badge/View-GitBook_Docs-brightgreen?style=for-the-badge)](https://your-gitbook-link.com)
 
-<img src="media/header.avif" alt="AI TradeGPT Banner" width="800px" style="border-radius: 15px;">
+![AI TradeGPT Banner](media/header.png)
 
 </div>
 
@@ -21,34 +21,15 @@ AI TradeGPT is an advanced AI system designed to simplify crypto trading.
 
 </div>
 
-<div align="center">
-
-| 🚀 **Launch Tokens**  | 💰 **Buy/Sell Tokens**  | 📊 **Track PnL**    |  
-|------------------------|-------------------------|---------------------|  
-| Deploy tokens on Pump.fun | Securely trade tokens | Analyze profit & loss |
-
-</div>
-
 ---
 
 ## 🔥 **Features**
 
-<section style="background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
-
-### 1️⃣ Launch Tokens  
-Seamlessly deploy your tokens with minimal effort.  
-
-### 2️⃣ Rug Check  
-Advanced security checks to detect potential scams.  
-
-### 3️⃣ PnL Analysis  
-Track and analyze your profit and loss.  
-
-</section>
+- **Launch Tokens**: Seamlessly deploy your tokens with minimal effort.  
+- **Rug Check**: Advanced security checks to detect potential scams.  
+- **PnL Analysis**: Track and analyze your profit and loss.  
 
 ---
-
-<div align="center">
 
 ## 🎥 **Demos & Screenshots**
 
@@ -56,37 +37,23 @@ Track and analyze your profit and loss.
 |---------------------------|---------------------------|  
 | Token Launch              | PnL Tracking             |
 
-</div>
-
 ---
 
 ## 🛠️ **Tech Stack**
-
-<div align="center">
 
 | **Backend** | **Frontend** | **Blockchain** |
 |-------------|--------------|----------------|
 | Python      | React.js     | Solana         |
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌐 **Links**  
 
 - [Visit Website](https://your-website-link.com)  
 - [Read GitBook Docs](https://your-gitbook-link.com)  
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🛡️ **License**
 
-Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
-</div>
+Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
